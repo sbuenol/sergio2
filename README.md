@@ -1,4 +1,4 @@
 # sergio2
-Lamp status
+Lamp stack
 .......
 esto es otro cambio
